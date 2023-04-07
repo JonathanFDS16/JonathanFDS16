@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JonathanFDS16
-- 👀 I’m interested in playing guitar and programming
-- 🌱 I’m currently learning Java at CWRU
-- 💞️ I’m looking to collaborate on projects in general and learn more about topics in Computer Science
+- 👋 Hi, I’m Jonathan
+- 👀 I’m interested in playing guitar and programming.
+- 🌱 I’m currently learning Java at CWRU. With +8 experience in Java.
 - 📫 How to reach me. Instagram: @jonathan_fd_silva 
 
 <!---
