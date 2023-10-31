@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan
 - 👀 I’m interested in playing guitar and programming.
-- 🌱 I’m currently learning Java at CWRU. With +8 experience in Java.
+- 🌱 I’m currently learning Java at CWRU. With +1 year of experience in Java.
 - 📫 How to reach me. Instagram: @jonathan_fd_silva 
 
 <!---
