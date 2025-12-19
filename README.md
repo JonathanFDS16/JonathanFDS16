@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Jonathan
-- 👀 I’m interested in playing guitar and programming.
-- 🌱 I’m currently learning Java at CWRU. With +1 year of experience in Java.
-- 📫 How to reach me. Instagram: @jonathan_fd_silva 
+Curious about systems programming. Love guitar and motorcycles
 
 <!---
 JonathanFDS16/JonathanFDS16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
